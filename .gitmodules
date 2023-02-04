@@ -1,0 +1,3 @@
+[submodule "components/shift_registers"]
+	path = components/shift_registers
+	url = git@github.com:meeeerkat/esp32_shift_registers.git
